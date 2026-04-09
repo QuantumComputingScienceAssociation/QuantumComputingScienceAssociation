@@ -2,7 +2,7 @@
 
 > *The future of computing is quantum. Be part of building it.*
 
-The **Quantum Computing Science Association (QCSA)** is a student-driven nonprofit uniting the brightest minds across Southern California universities to explore, learn, and push the boundaries of quantum computing — one campus at a time.
+The **Quantum Computing Science Association (QCSA)** is a student-driven nonprofit uniting the brightest minds across Southern California universities to explore, learn, and push the boundaries of quantum computing: one campus at a time.
 
 ---
 
@@ -18,7 +18,7 @@ QCSA exists to make sure you are one of them.
 
 - **Workshops & Bootcamps**: Hands-on sessions covering quantum circuits, algorithms (Grover's, Shor's, VQE, and more), and platforms like Qiskit, Cirq, and PennyLane
 - **Research Opportunities**: Collaborate with peers and faculty on cutting-edge quantum projects
-- **Quantum Developer Community (QDC)**: A dedicated space for builders: hackathons, open-source projects, and developer resources at [qdc-qcsa.org](https://qdc-qcsa.org)
+- **Quantum Device Consortium (QDC)**: A dedicated space for builders: hackathons, open-source projects, and developer resources at [qdc-qcsa.org](https://qdc-qcsa.org)
 - **Industry Connections**: Network with professionals and organizations at the forefront of the quantum industry
 - **Cross-Campus Collaboration**: Work alongside students from UCLA, USC, Caltech, UCSD, and UCSB in a growing Southern California quantum network
 
