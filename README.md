@@ -52,6 +52,6 @@ Are you a student, researcher, or enthusiast who wants to be part of the quantum
 
 ## About
 
-QCSA is a registered nonprofit organization founded at UCLA. Our mission is to democratize access to quantum computing education and foster a collaborative, inclusive community of the next generation of quantum scientists and engineers across university campuses.
+QCSA is a nonprofit organization founded at UCLA. Our mission is to democratize access to quantum computing education and foster a collaborative, inclusive community of the next generation of quantum scientists and engineers across university campuses.
 
 The nonprofit website is currently in development. Stay tuned for updates.
